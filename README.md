@@ -1,1 +1,1 @@
-# MTechSqlPOC
+# MtechSQL
